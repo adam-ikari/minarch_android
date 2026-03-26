@@ -5,3 +5,4 @@ APP_STL := c++_static
 APP_CFLAGS := -Wall -Wextra
 APP_CPPFLAGS := -std=c++17 -fno-rtti -fno-exceptions
 APP_LDFLAGS := -Wl,--gc-sections
+APP_ALLOW_MISSING_DEPS := true
