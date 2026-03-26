@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MinArch</string>
+    <string name="select_rom">Select ROM</string>
+    <string name="select_core">Select Core</string>
+    <string name="loading">Loading...</string>
+    <string name="error_loading_core">Failed to load core</string>
+    <string name="error_loading_rom">Failed to load ROM</string>
+    <string name="menu">Menu</string>
+    <string name="exit">Exit</string>
+    <string name="save_state">Save State</string>
+    <string name="load_state">Load State</string>
+    <string name="settings">Settings</string>
+</resources>

@@ -1,0 +1,29 @@
+# SDL2 is fetched during build
+app/src/main/jni/SDL2/
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+
+# NDK build output
+app/src/main/libs/
+app/src/main/obj/
+
+# Keystore
+*.jks
+*.keystore
+
+# Logs
+*.log
+
+# Core files from assets (large binary files)
+app/src/main/assets/cores/*.so
+
+# APK output
+app/build/outputs/
